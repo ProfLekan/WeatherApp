@@ -53,26 +53,7 @@ A modern desktop weather application built with JavaFX and the OpenWeather API. 
 * Eclipse IDE
 
 ## Screenshots
-
-### Current Weather
-
-(Add screenshot here)
-
-### 5-Day Forecast
-
-(Add screenshot here)
-
-### Detailed Forecast Grid
-
-(Add screenshot here)
-
-### Temperature Trend Chart
-
-(Add screenshot here)
-
-### Favorite Cities and Search History
-
-(Add screenshot here)
+<img width="883" height="1842" alt="Screenshot 2026-06-06 154723" src="https://github.com/user-attachments/assets/dfca8997-be1b-4eaa-a124-374a878b45c1" />
 
 ## Project Structure
 
